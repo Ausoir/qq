@@ -1,0 +1,8 @@
+#Name,Sprite,Property
+Dirt,Dirt,ground
+Grass,Grass,ground
+Rocky Surface,Rocky,ground
+Water,Water,water
+Sea Water,Sea,tide
+Sand,Sand,ground
+Dungeon,Dungeon,ground

@@ -1,0 +1,7 @@
+#Name,Sprite,Loot,Weight,Health,Faction,Behavior,Sight,MoveSpeed
+Player,Player,Meat,9,10,Good,none,5,7
+Crab,Crab,Meat,2,3,Neutral,Prey,2,10
+Jaguar,Jaguar,Meat,8,10,Animal,Hostile,5,5
+Snake,Snake,Meat,3,3,Animal,Hostile,3,8
+Monkey,Monkey,Meat,5,5,Prey,DefenselessPrey,5,3
+Slime,Slime,,10,5,Monster,MindlessHostile,3,15
